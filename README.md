@@ -1,0 +1,3 @@
+# DiscordBot
+
+Minecraft discord bot!
